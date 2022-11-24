@@ -1,0 +1,6 @@
+framework module Pods_Persons_iOS_Exam_Persons_iOS_ExamUITests {
+  umbrella header "Pods-Persons-iOS-Exam-Persons-iOS-ExamUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

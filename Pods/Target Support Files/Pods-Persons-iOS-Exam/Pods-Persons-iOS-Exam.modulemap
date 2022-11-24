@@ -1,0 +1,6 @@
+framework module Pods_Persons_iOS_Exam {
+  umbrella header "Pods-Persons-iOS-Exam-umbrella.h"
+
+  export *
+  module * { export * }
+}
